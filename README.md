@@ -1,27 +1,51 @@
-# Homebroker
+# AppSantander - Homebroker
+Projeto frontend desenvolvido durante a DevWeek Santander para integração com o banco de dados
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
+Author: [Will Freitas](https://github.com/WdvOps)
 
-## Development server
+### Tela de cotações banco Santander
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+#### Aula #1: Configurando ambiente - Backend
 
-## Code scaffolding
+ - [x] Preparação do ambiente de desenvolvimento Frontend
+ - [x] instalação e configuração do Angular/cli 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+#### Aula #2: Criando o projeto base
 
-## Build
+ - [x] Criação do projeto base
+ - [x] Entendendo o que é um componente
+ - [x] Criando o primeiro componente
+ 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+#### Aula #3: Configurações do projeto
 
-## Running unit tests
+ - [x] Aplicando Entendendo e configurando o Angular router
+ - [x] Configurando o CSS Global
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+#### Aula #4: Criando os componentes da aplicação
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+ - [x] Criando um módulo para o componente header 
+ - [x] Criando o componente header
+ - [x] Entendendo a estrutura e criando o componente header
+ - [x] Aplicando responsividade ao header
+ - [x] Entendendo a estrutura e criando o componente StockCard
+ - [x] Criando uma lista de StockCards no DashboardPagecomponent
 
-## Further help
+#### Aula #5: Integração com a API, diretivas e property binding
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+ - [x] Entendendo os tipos e sintaxe da linguagem TypeScript
+ - [x] Criando o primeiro model
+ - [x] Criando um service e realizando a integração com a API
+ - [x] Renderizando a lista de stocks de forma dinâmica
+ - [x] Adicionando classes condicionais
+
+#### Aula #6: Publicando o Frontend na nuvem
+
+ - [x] Criando o repositório no GitHub
+ - [x] Versionando o código fonte
+ - [x] Publicando o frontend
+
+#### Bônus 
+
+ - [] Adicionando o componente footer
