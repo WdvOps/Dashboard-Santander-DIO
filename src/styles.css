@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+:root {
+  --background-color: #EAEAEA;
+  --primary-color: #EA1D25;
+  --secundary-color: #FFF;
+  --color-variation-text: #FFFFFF;
+  --text-color: #5C6369;
+  --text-color-light: rgba(92, 99, 105, 0.45);
+  --positive-variation-color: #87D883;
+  --negative-variation-color: #F55A5F;
+}
+* {
+  box-sizing: border-box;
+}
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background: rgb(15,2,2);
+  background: linear-gradient(90deg, rgba(15,2,2,1) 0%, rgba(121,9,9,1) 43%, rgba(45,6,6,1) 100%);
+  font-family: 'Segoe UI', sans-serif;
+}
