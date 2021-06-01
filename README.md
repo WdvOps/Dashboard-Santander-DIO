@@ -48,4 +48,4 @@ Author: [Will Freitas](https://github.com/WdvOps)
 
 #### Bônus 
 
- - [] Adicionando o componente footer
+- [x] Adicionando o componente footer
